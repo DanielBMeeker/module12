@@ -55,3 +55,7 @@ class CountyDemographics:
                 "\nMedian Family Income: '{self.median_family_income}'"
                 "\nPopulation: '{self.population}'"
                 "\nNumber of Households: '{self.number_of_households}'".format(self=self))
+
+
+if __name__ == '__main__':
+    pass
